@@ -1,7 +1,9 @@
 <div align=center>
-
+ 
+[![Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSOPLAY%2Fhit-counter&count_bg=%233D7EC8&title_bg=%23434343&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+  
 ### 👋 Hi
-
+  
 </div>
 
 > "평범한 대학생으로 열심히 공부중 입니다!"
