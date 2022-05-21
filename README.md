@@ -35,6 +35,6 @@
 
 ![SOPLAY's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOPLAY&count_private=true&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soplay&exclude_repo=seed39,RAI-Capston)](https://github.com/soplay/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOPLAY&layout=compact&hide_border=true&card_width=600&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
 
 </div>
