@@ -31,10 +31,6 @@
 
 ### Etc
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdgns1341)](https://solved.ac/tkdgns1341)
-
-![SOPLAY's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOPLAY&count_private=true&show_icons=true&theme=react)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOPLAY&layout=compact&hide_border=true&card_width=600&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
 
 </div>
